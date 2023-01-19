@@ -1,11 +1,12 @@
 package String;
 
 import java.util.Arrays;
+import java.util.List;
 
 public class Q_02 {
     public static void main(String[] args) {
 
-        // Count number of Vowels & Consonants
+         // *Count number of Vowels & Consonants
 
         String cumle = "Merhaba Biz Javamania";
         cumle = cumle.replaceAll(" ","").toLowerCase();
@@ -23,6 +24,27 @@ public class Q_02 {
         int consonants = cumle.length()-vowels;
         System.out.println("vowels = " + vowels);
         System.out.println("consonants = " + consonants);
+
+
+    /* Çözüm 2 */
+
+//        int countVowels=0;
+//        int countConsonants=0;
+//
+//        String s="Number of Vowels and Consonants";
+//        s=s.toLowerCase();
+//        s=s.replaceAll(" ", "");
+//
+//        List<Character> v= Arrays.asList('a', 'e', 'i', 'o', 'u');
+//
+//        for (int i = 0; i < s.length(); i++) {
+//            if(v.contains(s.charAt(i))) countVowels++;
+//            else countConsonants++;
+//
+//        }
+//
+//        System.out.println(countVowels);
+//        System.out.println(countConsonants);
 
 
 

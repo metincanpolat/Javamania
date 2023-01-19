@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e10aa40-a211-4b6f-9a11-0ad8e4ff9303" name="Changes" comment="" />
+    <list default="true" id="2e10aa40-a211-4b6f-9a11-0ad8e4ff9303" name="Changes" comment="Project Started">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project Started" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project Started" />
   </component>
 </project>
