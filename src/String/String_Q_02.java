@@ -1,9 +1,8 @@
 package String;
 
 import java.util.Arrays;
-import java.util.List;
 
-public class Q_02 {
+public class String_Q_02 {
     public static void main(String[] args) {
 
          // *Count number of Vowels & Consonants
