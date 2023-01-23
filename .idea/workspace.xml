@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e10aa40-a211-4b6f-9a11-0ad8e4ff9303" name="Changes" comment="Project Started">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Javamania/String/Q_01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Javamania/String/Q_02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Javamania/String/Q_03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Javamania/String/Q_04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Javamania/String/Q_05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Javamania/String/Q_06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Javamania/String/Q_07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Array_Q_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/String_Q_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/String_Q_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/String_Q_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/String_Q_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/String_Q_07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/Q_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/String_Q_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/Q_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/String_Q_02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +33,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -31,12 +52,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Q_02">
-    <configuration name="Q_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.Q_01" />
+  <component name="RunManager" selected="Application.String_Q_07">
+    <configuration name="String_Q_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.String_Q_03" />
       <module name="Javamania" />
       <extension name="coverage">
         <pattern>
@@ -48,8 +70,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.Q_02" />
+    <configuration name="String_Q_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.String_Q_04" />
+      <module name="Javamania" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String_Q_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.String_Q_05" />
+      <module name="Javamania" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String_Q_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.String_Q_06" />
+      <module name="Javamania" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String_Q_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.String_Q_07" />
       <module name="Javamania" />
       <extension name="coverage">
         <pattern>
@@ -63,8 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q_02" />
-        <item itemvalue="Application.Q_01" />
+        <item itemvalue="Application.String_Q_07" />
+        <item itemvalue="Application.String_Q_06" />
+        <item itemvalue="Application.String_Q_05" />
+        <item itemvalue="Application.String_Q_04" />
+        <item itemvalue="Application.String_Q_03" />
       </list>
     </recent_temporary>
   </component>

@@ -1,9 +1,8 @@
 package String;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
-public class Q_01 {
+public class String_Q_01 {
     public static void main(String[] args) {
 
         // 1. Reverse a string without using predefined reverse methods.
